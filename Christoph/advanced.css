@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body, html {
+    height: 100%;
+}
+
+.nav {
+    padding: 50px;
+}
+
+.container-fluid {
+    margin-top: 5vh;
+    width: 60vw;
+}
+
+.container-fluid > h2 {
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+.creator > small {
+    font-weight: lighter;
+}
+
+.creator {
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.content {
+    background-color: rgb(190, 190, 190);
+    border-radius: 10px;
+    padding: 15px;
+}
+
+
+
+footer div {
+    padding: 50px;
+    background-color: black;
+    margin-top: 30px;
+    text-align: center;
+    color: white;
+    font-size: 1.5em;
+    font-weight: bold;
+}

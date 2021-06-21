@@ -1,0 +1,17 @@
+.navbar {
+    margin: 20px 0;
+}
+
+.carousel {
+    width: 500px;
+    height: 300px;
+    text-align: center;
+}
+
+.carousel img {
+    height: 300px;
+}
+
+#carouselExampleIndicators{
+    text-align: center;
+}

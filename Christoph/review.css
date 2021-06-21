@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body, html {
+    height: 100%;
+    width: 100%;
+}
+
+body header {
+    width: 100%;
+}
+
+.navigation {
+    padding: 50px;
+}
+
+.container-fluid {
+    width: 70vw;
+    margin-top: 5vh;
+}
+
+.container-fluid > h2 {
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+.creator > small {
+    font-weight: lighter;
+}
+
+.creator {
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.card {
+    margin-bottom: 2vh;
+}
+
+.user {
+    float: right;
+}
+
+.user > a {
+    text-decoration: none;
+    color: rgb(0, 172, 51);
+}
+
+footer div {
+    padding: 50px;
+    background-color: black;
+    margin-top: 30px;
+    text-align: center;
+    color: white;
+    font-size: 1.5em;
+    font-weight: bold;
+    overflow: auto;
+}
